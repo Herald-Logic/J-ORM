@@ -13,22 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<repositories>
-	     <repository>
-                <id>internal.repo</id>
-                <url>http://10.10.3.189:8081/repository/common_utilities/</url>
-        </repository>
-	</repositories>
-	<distributionManagement>
-		<repository>
-			<id>internal.repo</id>
-			<name>name of the repository</name>
-			<url>http://10.10.3.189:8081/repository/common_utilities/</url>
-		</repository>
-	</distributionManagement>
-
-
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
