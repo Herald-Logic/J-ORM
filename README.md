@@ -1,4 +1,4 @@
-# Dynamic ORM
+# J-ORM (Json - Object Relation Mapping)
 
 JSON Schema
 ===========
